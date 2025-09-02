@@ -10,14 +10,14 @@
     "subtitle": "Built with Zara",
     "description": "Tmp 55658c0c 22 is a Base Mini App built with Zara.",
     "iconUrl": "https://0co.to/images/zara-2.png",
-    "homeUrl": "https://tmp-55658c0c-22.vistara.dev",
-    "splashImageUrl": "https://dummyimage.com/200x200/0a0b0d/ffffff.png&text=Splash",
+    "homeUrl": "https://tmp55658c0c22-9ig9-g7h34jyg9-vistara.vercel.app",
+    "splashImageUrl": "https://tmp55658c0c22-9ig9-g7h34jyg9-vistara.vercel.app/splash.png",
     "splashBackgroundColor": "#000000",
-    "heroImageUrl": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Hero",
+    "heroImageUrl": "https://tmp55658c0c22-9ig9-g7h34jyg9-vistara.vercel.app/image.png",
     "tagline": "Tmp 55658c0c 22",
     "screenshotUrls": [
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot1",
-      "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=Shot2"
+      "https://tmp55658c0c22-9ig9-g7h34jyg9-vistara.vercel.app/screenshot.png",
+      "https://tmp55658c0c22-9ig9-g7h34jyg9-vistara.vercel.app/screenshot.png"
     ],
     "primaryCategory": "social",
     "tags": [
@@ -25,6 +25,6 @@
       "miniapp",
       "onchainkit"
     ],
-    "webhookUrl": "https://tmp-55658c0c-22.vistara.dev/api/webhook"
+    "webhookUrl": "https://tmp55658c0c22-9ig9-g7h34jyg9-vistara.vercel.app/api/webhook"
   }
 }
